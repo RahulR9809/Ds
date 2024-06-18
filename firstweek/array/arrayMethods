@@ -1,0 +1,7 @@
+add(element)
+addAll(list)
+insert(index, element)
+remove(element)
+removeAt(index)
+clear()
+length

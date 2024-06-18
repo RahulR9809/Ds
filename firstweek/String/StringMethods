@@ -1,0 +1,8 @@
+String Methods:
+toUpperCase()
+toLowerCase()
+trim()
+split(separator)
+substring(startIndex, [endIndex])
+startsWith(prefix)
+endsWith(suffix)
